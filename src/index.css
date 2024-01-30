@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://img.freepik.com/free-vector/wild-fun-animal-paw-print-pattern-background-design-vector_1017-47618.jpg?w=1380&t=st=1706128521~exp=1706129121~hmac=b7dba12410c73b721570e7c167c196a44ff18bcf55b9a2d87624ef6af6a1c190");
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
