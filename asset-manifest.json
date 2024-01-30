@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/animal-shelter-app/static/css/main.e3a9d95e.css",
+    "main.js": "/animal-shelter-app/static/js/main.767c1787.js",
+    "index.html": "/animal-shelter-app/index.html",
+    "main.e3a9d95e.css.map": "/animal-shelter-app/static/css/main.e3a9d95e.css.map",
+    "main.767c1787.js.map": "/animal-shelter-app/static/js/main.767c1787.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3a9d95e.css",
+    "static/js/main.767c1787.js"
+  ]
+}
